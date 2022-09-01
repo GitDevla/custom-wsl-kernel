@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2] - 2022-07-21
+### Removed
+- Mitigations for valnerabilities
+- /proc/config
+- Checkpoint & Restore
+- EFI & BIOS
+- Everything under ACPI except Processor
+- Kprobes
+- IPv6
+- RAID
+- XFS & Btrfs Filesystems
+- Kernel hacking
+
 ## [1.1] - 2022-07-20
 ### Changed
 - Use ZSTD compression instead of Gzip2 
