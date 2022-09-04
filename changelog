@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.5.1] - 2022-07-28
+### Removed
+- Miscellaneous filesystem
+- NFS client & server
+
 ## [1.5] - 2022-07-28
 ### Removed
 - Quota
