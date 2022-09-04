@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5] - 2022-07-28
+### Removed
+- Quota
+- CDROM filesystem
+- DOS filesystem
+- SquashFS filesystem
+
 ## [1.4] - 2022-07-25
 ### Removed
 - USB network adapters
