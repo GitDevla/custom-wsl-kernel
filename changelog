@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3] - 2022-07-23
+### Removed
+- Symbols for debugging
+- Landlock
+- Power supply device
+
 ## [1.2] - 2022-07-21
 ### Removed
 - Mitigations for valnerabilities
