@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.4] - 2022-07-25
+### Removed
+- USB network adapters
+- Serial I/O
+- Legacy PTY support
+
 ## [1.3] - 2022-07-23
 ### Removed
 - Symbols for debugging
